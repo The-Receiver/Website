@@ -1,0 +1,106 @@
+html {
+    background: #fff;
+}
+
+body {
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica";
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0px;
+    max-width: auto;
+}
+
+h1 {
+    font-weight: 750;
+    line-height: 2;
+}
+
+a {
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+img {
+    background: transparent;
+    display: block;
+}
+
+/* Header */
+.header {
+  background-color: #fff;
+  border-bottom: 3px solid #cc3333;
+  overflow:hidden;
+}
+
+.header img {
+  float: left;
+  padding: 25px;
+}
+
+.header-right {
+  float: right;
+  padding: 35px
+}
+
+/* Header link style */
+.header-right a {
+  float: left;
+  margin: 25px;
+  font-size: 20px;
+  font-family: "Graduate";
+  color: black;
+  text-decoration: none;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+}
+
+/* Header link hover animation */
+.header-right a:hover, .header-right a:focus, .header-right a:active {
+  color: #cc3333;
+}
+
+.page p, h1{
+  padding: 60px;
+}
+
+.page img {
+  width: 840px;
+  height: 560px;
+}
+
+.intro {
+  overflow: hidden;
+}
+
+.service {
+  overflow: hidden;
+}
+
+.reason {
+  overflow: hidden;
+}
+
+.goal {
+  overflow: hidden;
+}
+
+.right-tp {
+  float: right;
+}
+
+.left-tp {
+  float: left;
+}
+
+.contact-info h4 {
+  padding: 20px 40px;
+}
