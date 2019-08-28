@@ -1,2 +1,3 @@
 # MCHP Website
-The source code for the website of Myanmar Children Health Project.
+
+The official repository of MCHP's website.
